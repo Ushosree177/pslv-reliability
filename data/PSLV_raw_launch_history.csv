@@ -1,0 +1,65 @@
+launch_index,mission,calendar_date,year,variant_raw,payload_raw,outcome_raw,primary_source
+1,PSLV-D1,1993-09-20,1993,PSLV-G,IRS-1E,Mission Unsuccessful,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+2,PSLV-D2,1994-10-15,1994,PSLV-G,IRS-P2,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+3,PSLV-D3,1996-03-21,1996,PSLV-G,IRS-P3,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+4,PSLV-C1,1997-09-29,1997,PSLV-G,IRS-1D,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+5,PSLV-C2,1999-05-26,1999,PSLV-G,Oceansat (IRS-P4),,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+6,PSLV-C3,2001-10-22,2001,PSLV-G,TES,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+7,PSLV-C4,2002-09-12,2002,PSLV-G,KALPANA-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+8,PSLV-C5,2003-10-17,2003,PSLV-G,IRS-P6 / RESOURCESAT-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+9,PSLV-C6,2005-05-05,2005,PSLV-G,CARTOSAT-1 / HAMSAT,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+10,PSLV-C7,2007-01-10,2007,PSLV-G,CARTOSAT-2 / SRE-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+11,PSLV-C8,2007-04-23,2007,PSLV-CA,,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+12,PSLV-C10,2008-01-21,2008,PSLV-CA,,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+13,PSLV-C9,2008-04-28,2008,PSLV-CA,CARTOSAT-2A / IMS-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+14,PSLV-C11,2008-10-22,2008,PSLV-XL,Chandrayaan-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+15,PSLV-C12,2009-04-20,2009,PSLV-CA,RISAT-2,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+16,PSLV-C14,2009-09-23,2009,PSLV-CA,Oceansat-2,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+17,PSLV-C15,2010-07-12,2010,PSLV-CA,CARTOSAT-2B,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+18,PSLV-C16,2011-04-20,2011,PSLV-G,RESOURCESAT-2 / YOUTHSAT,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+19,PSLV-C17,2011-07-15,2011,PSLV-XL,GSAT-12,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+20,PSLV-C18,2011-10-12,2011,PSLV-CA,Megha-Tropiques,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+21,PSLV-C19,2012-04-26,2012,PSLV-XL,RISAT-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+22,PSLV-C21,2012-09-09,2012,PSLV-CA,,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+23,PSLV-C20,2013-02-25,2013,PSLV-CA,SARAL,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+24,PSLV-C22,2013-07-01,2013,PSLV-XL,IRNSS-1A,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+25,PSLV-C25,2013-11-05,2013,PSLV-XL,Mars Orbiter Mission,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+26,PSLV-C24,2014-04-04,2014,PSLV-XL,IRNSS-1B,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+27,PSLV-C23,2014-06-30,2014,PSLV-CA,,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+28,PSLV-C26,2014-10-16,2014,PSLV-XL,IRNSS-1C,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+29,PSLV-C27,2015-03-28,2015,PSLV-XL,IRNSS-1D,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+30,PSLV-C28,2015-07-10,2015,PSLV-XL,DMC3,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+31,PSLV-C30,2015-09-28,2015,PSLV-XL,AstroSat,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+32,PSLV-C29,2015-12-16,2015,PSLV-CA,TeLEOS-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+33,PSLV-C31,2016-01-20,2016,PSLV-XL,IRNSS-1E,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+34,PSLV-C32,2016-03-10,2016,PSLV-XL,IRNSS-1F,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+35,PSLV-C33,2016-04-28,2016,PSLV-XL,IRNSS-1G,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+36,PSLV-C34,2016-06-22,2016,PSLV-XL,CARTOSAT-2 Series,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+37,PSLV-C35,2016-09-26,2016,PSLV,SCATSAT-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+38,PSLV-C36,2016-12-07,2016,PSLV-XL,RESOURCESAT-2A,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+39,PSLV-C37,2017-02-15,2017,PSLV-XL,CARTOSAT-2 Series,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+40,PSLV-C38,2017-06-23,2017,PSLV-XL,CARTOSAT-2 Series,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+41,PSLV-C39,2017-08-31,2017,PSLV-XL,IRNSS-1H,Mission Unsuccessful,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+42,PSLV-C40,2018-01-12,2018,PSLV-XL,Cartosat-2 Series,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+43,PSLV-C41,2018-04-12,2018,PSLV-XL,IRNSS-1I,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+44,PSLV-C42,2018-09-16,2018,PSLV,,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+45,PSLV-C43,2018-11-29,2018,PSLV,HysIS,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+46,PSLV-C44,2019-01-24,2019,PSLV-DL,Microsat-R,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+47,PSLV-C45,2019-04-01,2019,PSLV-QL,EMISAT,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+48,PSLV-C46,2019-05-22,2019,PSLV-CA,RISAT-2B,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+49,PSLV-C47,2019-11-27,2019,PSLV-XL,Cartosat-3,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+50,PSLV-C48,2019-12-11,2019,PSLV-QL,RISAT-2BR1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+51,PSLV-C49,2020-11-07,2020,PSLV-DL,EOS-01,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+52,PSLV-C50,2020-12-17,2020,PSLV-XL,CMS-01,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+53,PSLV-C51,2021-02-28,2021,PSLV-DL,Amazonia-1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+54,PSLV-C52,2022-02-14,2022,PSLV-XL,EOS-04,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+55,PSLV-C53,2022-06-30,2022,,DS-EO,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+56,PSLV-C54,2022-11-26,2022,PSLV-XL,EOS-06 / India-Bhutan Sat,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+57,PSLV-C55,2023-04-22,2023,PSLV-CA,TeLEOS-2,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+58,PSLV-C56,2023-07-30,2023,PSLV-CA,DS-SAR,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+59,PSLV-C57,2023-09-02,2023,PSLV-XL,Aditya-L1,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+60,PSLV-C58,2024-01-01,2024,PSLV-DL,XPoSat,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+61,PSLV-C59,2024-12-05,2024,PSLV-XL,Proba-3,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+62,PSLV-C60,2024-12-30,2024,,SPADEX-A / SPADEX-B / POEM-4,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+63,PSLV-C61,2025-05-18,2025,PSLV-XL,EOS-09,Not accomplished,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html
+64,PSLV-C62,2026-01-12,2026,PSLV-DL,EOS-N1 / ANVESHA,,https://www.isro.gov.in/ISRO_EN/PSLV_Launchers.html

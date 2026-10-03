@@ -1,0 +1,9 @@
+audit_item,result,status
+Number of launches,64,PASS
+Duplicate missions,0,PASS
+Missing dates,0,PASS
+Missing outcomes,0,PASS
+Unverified outcomes,0,PASS
+Source conflicts,1,REVIEWED
+Missing configurations,2,REVIEWED
+Missing payload information,5,REVIEWED
