@@ -1,0 +1,6 @@
+prior,expected_failures,simulated_mean_failures,P(4 or fewer failures) exact,P(4 or fewer failures) simulation
+"Jeffreys Beta(0.5,0.5)",32.0,32.021,0.175074361351301,0.17766
+"Uniform Beta(1,1)",32.0,31.84752,0.07692307692307697,0.07848
+"Mildly regularizing Beta(2,2)",32.0,32.03058,0.019517795637198323,0.01936
+"Moderately optimistic Beta(5,1)",10.666666666666666,10.63198,0.3215728806827025,0.32194
+"Reliability-informative Beta(9,1)",6.4,6.4089,0.49238731974933986,0.49156

@@ -1,0 +1,8 @@
+analysis,removed_mission,launches,failures,success_rate
+All launches,,64,4,0.9375
+Exclude C61 and C62,PSLV-C61;PSLV-C62,62,2,0.967741935483871
+Recent C61 and C62,,2,2,0.0
+Leave one failure out,PSLV-D1,63,3,0.9523809523809523
+Leave one failure out,PSLV-C39,63,3,0.9523809523809523
+Leave one failure out,PSLV-C61,63,3,0.9523809523809523
+Leave one failure out,PSLV-C62,63,3,0.9523809523809523

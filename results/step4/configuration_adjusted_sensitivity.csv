@@ -1,0 +1,4 @@
+model,time_definition,temporal_coefficient,predicted_probability_early,predicted_probability_late,interpretation
+Configuration only,none,,0.9397713234076581,0.9397713234076581,Descriptive sensitivity; not the primary model
+Configuration + launch-index time,launch index,-0.5604462908765591,0.965992401181733,0.9025319440716492,Descriptive sensitivity; not the primary model
+Configuration + calendar time,calendar time,-0.18218004019062564,0.9517950216802711,0.9320444896357436,Descriptive sensitivity; not the primary model

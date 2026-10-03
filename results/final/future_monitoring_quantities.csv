@@ -1,0 +1,4 @@
+quantity,purpose
+P(p < 0.90 | data),Monitor low overall reliability
+P(p < 0.85 | data),Monitor substantially lower reliability
+P(Delta > 0.10 | data),Monitor practically large degradation

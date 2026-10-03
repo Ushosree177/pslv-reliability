@@ -1,0 +1,9 @@
+quantity,probability
+0 failures,0.48334
+1 failure,0.34006
+2 failures,0.13116
+3 or more failures,0.04544
+At least 1 failure,0.51666
+Expected failures,0.7494
+Predictive 95% interval lower,0.0
+Predictive 95% interval upper,3.0

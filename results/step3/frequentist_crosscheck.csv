@@ -1,0 +1,4 @@
+method,lower,upper
+"Bayesian Beta(1,1) credible interval",0.849866599329491,0.974551532980957
+Wilson 95% confidence interval,0.8500251490779133,0.9754287986033819
+Clopper-Pearson 95% confidence interval,0.8476365265773033,0.9827099726189448

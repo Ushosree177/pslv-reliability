@@ -1,0 +1,19 @@
+statistic,value
+Total launches,64
+Successes,60
+Failures,4
+Observed success proportion,0.9375
+Wilson 95% lower success bound,0.8500251490779133
+Wilson 95% upper success bound,0.9754287986033819
+Consecutive failure transitions,1
+Failure after failure count,1
+Failure after failure opportunities,3
+P(failure after failure),0.3333333333333333
+Failure after success count,2
+Failure after success opportunities,60
+P(failure after success),0.03333333333333333
+Exact runs observed,5
+Exact runs p-value (lower tail),0.009015134345647302
+Constant-rate baseline,"Y_i ~ Bernoulli(p), i = 1,...,64; p_hat = 60/64 = 0.9375"
+runs_observed,5
+runs_expected,8.5

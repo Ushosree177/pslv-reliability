@@ -1,0 +1,7 @@
+assumption,why_needed,potential_violation,consequence
+Binary Bernoulli outcome,Models launch success/failure,None obvious for the coded outcome,Low concern
+Conditional independence,Constant model likelihood,Launches may share operational conditions,Uncertainty could be understated
+Exchangeability under M0,One common reliability p,Time or configuration differences,"Motivates M1, M2, M3, and configuration sensitivities"
+Correct outcome coding,All downstream analyses,Source disagreement or incomplete remarks,Handled by Step 1 source audit
+Stable mechanism for prediction,Future-launch interpretation,"Vehicle, process, or mission conditions can change",Limits extrapolation
+Sufficient information for covariates,Configuration and trend models,Only four failures and sparse groups,Sensitivity results remain exploratory

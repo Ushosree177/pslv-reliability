@@ -1,0 +1,9 @@
+quantity,value
+Posterior mode k,54.0
+Posterior mean k,37.41549961693743
+Posterior 95% k lower,11.0
+Posterior 95% k upper,54.0
+P(p_before > p_after),0.78244
+P(degradation > 0.05),0.57952
+P(degradation > 0.10),0.3746
+P(k is in recent pre-specified period),

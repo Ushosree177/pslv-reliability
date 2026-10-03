@@ -1,0 +1,3 @@
+model,probability(final two failures),interpretation
+M0 constant,0.0067842605156037995,"Exact posterior predictive probability under Beta(61,5)"
+M1 change point,0.03118,Posterior predictive probability averaged over uncertain k

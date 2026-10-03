@@ -1,0 +1,6 @@
+model,purpose,main_evidence,predictive_performance,role
+M0 constant reliability,Stable historical reference,"Posterior Beta(61,5)",Reference; slightly best average score,Primary reference
+M1 unknown change point,Possible unknown persistent change,"Plausible degradation, uncertain k",Not clearly better than M0,Main sensitivity
+M2 recent-period windows,Compare recent launches with history,Strong recent-period signal,Exploratory only,Recent-period sensitivity
+M3 smooth trend,Gradual temporal change,Weak/moderate trend evidence,Similar to M0,Secondary sensitivity
+Configuration-adjusted models,Check a possible confounder,Limited information with four failures,Exploratory,Robustness analysis

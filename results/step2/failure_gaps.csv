@@ -1,0 +1,5 @@
+failure_number,launch_index,mission,calendar_date,previous_outcome,gap_from_previous_failure
+1,1,PSLV-D1,1993-09-20,NONE,
+2,41,PSLV-C39,2017-08-31,SUCCESS,40.0
+3,63,PSLV-C61,2025-05-18,SUCCESS,22.0
+4,64,PSLV-C62,2026-01-12,FAILURE,1.0

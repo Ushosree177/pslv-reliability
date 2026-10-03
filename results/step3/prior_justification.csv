@@ -1,0 +1,4 @@
+prior,interpretation,prior_mean,prior_strength
+"Beta(1,1)",Uniform reference prior,0.5,2
+"Beta(5,1)",Moderately optimistic sensitivity prior,0.8333333333333334,6
+"Beta(9,1)",Reliability-oriented sensitivity prior,0.9,10

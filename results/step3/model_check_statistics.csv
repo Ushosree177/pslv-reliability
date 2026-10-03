@@ -1,0 +1,6 @@
+statistic,observed,posterior_predictive_tail_probability
+Total failures,4,0.63222
+Failure-to-failure transitions,1,0.29098
+Runs (lower-tail clustering check),5,0.24046
+Longest failure run,2,0.29098
+Final two launches are failures,1,0.00666

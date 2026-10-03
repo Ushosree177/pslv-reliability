@@ -1,0 +1,6 @@
+quantity,value
+P(p_old > p_recent),0.99984
+P(p_old - p_recent > 0.05),0.99892
+P(p_old - p_recent > 0.10),0.99638
+Posterior mean p_old,0.953125
+Posterior mean p_recent,0.25

@@ -1,0 +1,5 @@
+previous_outcome,current_outcome,count
+FAILURE,FAILURE,1
+FAILURE,SUCCESS,2
+SUCCESS,FAILURE,2
+SUCCESS,SUCCESS,58

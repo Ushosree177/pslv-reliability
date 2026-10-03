@@ -1,0 +1,7 @@
+statistic,observed,predictive_mean,tail_probability
+Total failures,4,5.55154,0.72508
+Failure-to-failure transitions,1,0.74638,0.42914
+"Runs, lower-tail",5,10.39248,0.17678
+Failures in last 10,2,1.47366,0.406
+Final two launches fail,1,0.03118,0.03118
+Longest failure run,2,1.54608,0.42914

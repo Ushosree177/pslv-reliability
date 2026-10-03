@@ -1,0 +1,7 @@
+quantity,value
+P(p_before > p_after),0.78244
+P(p_before - p_after > 0.05),0.57952
+P(p_before - p_after > 0.10),0.3746
+Posterior mean p_before,0.9299605594443998
+Posterior mean p_after,0.8520545968827374
+Posterior mean degradation,0.07790596256166242

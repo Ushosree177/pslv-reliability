@@ -1,0 +1,6 @@
+prior,P(next launch succeeds),P(zero failures in next 10),P(at least one failure in next 10),P(two or more failures in next 10)
+"Jeffreys Beta(0.5,0.5)",0.930796,0.51098,0.48902,0.15832
+"Uniform Beta(1,1)",0.92506,0.48334,0.51666,0.1766
+"Mildly regularizing Beta(2,2)",0.912506,0.42182,0.57818,0.22092
+"Moderately optimistic Beta(5,1)",0.928884,0.4997,0.5003,0.16412
+"Reliability-informative Beta(9,1)",0.932036,0.51678,0.48322,0.15268

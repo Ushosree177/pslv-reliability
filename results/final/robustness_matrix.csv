@@ -1,0 +1,10 @@
+analysis,main_conclusion,robust
+Prior sensitivity,Posterior reliability remains high across reasonable priors,Yes
+Recent window 2-6,Recent decline signal persists but is exploratory,Partly; data-limited
+Change-point prior,Change location is not unique,No unique location
+Launch-index trend,Negative tendency is possible,Moderate
+Calendar-time trend,Trend evidence is weaker,Sensitive to time definition
+Configuration adjustment,Useful check but sparse groups limit inference,Data-limited
+Posterior predictive checks,Recent sequence is unusual under simple baselines,Supports investigation
+Forecasting,M0 is slightly better on average,Difference uncertain
+Calibration,No obvious catastrophic miscalibration,Exploratory

@@ -1,0 +1,5 @@
+model,description,log_marginal_likelihood,Bayes_factor_vs_M0
+M0 constant,One p for all launches,-17.536359498517303,1.0
+M1 unknown change point,Uniform k from 10 to 54,-18.739963150866494,0.3001107660365163
+M2 recent k=62,Pre-specified C61/C62 recent regime,-12.786608083718102,115.5555555555558
+M3 smooth trend,Bayesian logistic trend grid,-17.258775891870926,1.3199364699923497

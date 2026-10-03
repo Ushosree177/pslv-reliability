@@ -1,0 +1,3 @@
+stage,successes,failures,distribution,mean
+Historical launches 1-62,60,2,"Beta(61,3)",0.953125
+Add C61 and C62 failures,60,4,"Beta(61,5)",0.9242424242424242

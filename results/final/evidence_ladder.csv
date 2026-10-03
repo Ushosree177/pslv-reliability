@@ -1,0 +1,9 @@
+evidence,question,current_result,interpretation
+Overall rate,What is historical reliability?,93.75% observed success,High historical success rate
+Runs test,Are failures unusually clustered?,p = 0.0090,Clustering is unusual under fixed margins
+Constant Bayesian model,What reliability is compatible with all data?,"mean = 0.924; 95% CrI = [0.850, 0.975]","High reliability, with meaningful uncertainty"
+Final-two predictive check,How unusual are the final two failures?,M0 = 0.0068; M1 = 0.0312,"Temporal heterogeneity makes the event less surprising, but it remains uncommon"
+Change-point model,Is degradation plausible?,P(Delta > 0.05) = 0.580,"Compatible with decline, not decisive"
+Recent windows,Does the recent signal persist from 2-6 launches?,P(old > recent) = 0.9998 for last 2; 0.9931 for last 6,Strong exploratory recent-period signal
+Predictive validation,Does complexity predict better?,"M0, M1, and M3 are very similar",No clear predictive gain for time-varying models
+Bootstrap score difference,Is the predictive difference robust?,"log-score interval = [-0.0195, 0.0035]",Interval includes zero

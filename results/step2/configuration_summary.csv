@@ -1,0 +1,8 @@
+variant_standard,launches,failures,success_rate,warning
+PSLV,3,0,1.0,small group; descriptive only
+PSLV-CA,14,0,1.0,
+PSLV-DL,5,1,0.8,small group; descriptive only
+PSLV-G,11,1,0.9090909090909091,
+PSLV-QL,2,0,1.0,small group; descriptive only
+PSLV-XL,27,2,0.9259259259259259,
+UNKNOWN,2,0,1.0,small group; descriptive only

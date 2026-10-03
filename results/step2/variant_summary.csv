@@ -1,0 +1,8 @@
+variant_standard,launches,successes,failures,success_rate
+PSLV,3,3,0,1.0
+PSLV-CA,14,14,0,1.0
+PSLV-DL,5,4,1,0.8
+PSLV-G,11,10,1,0.9090909090909091
+PSLV-QL,2,2,0,1.0
+PSLV-XL,27,25,2,0.9259259259259259
+UNKNOWN,2,2,0,1.0
