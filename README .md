@@ -1,5 +1,6 @@
 # Bayesian Reliability Surveillance of PSLV Launches
-
+Description: Bayesian Reliability Analysis of PSLV Launch Outcomes using Python
+Topics: python, bayesian-statistics, reliability-analysis, statistical-modeling, simulation, data-analysis
 ## Overview
 
 This project develops an auditable **Bayesian reliability-surveillance
